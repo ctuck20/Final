@@ -1,0 +1,77 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+
+.right_side{
+    background-color: rgb(40, 39, 39);
+    color: white;
+    top: 0px;
+    right: 0px;
+    width: 295px;
+    bottom: 0px;
+    position: absolute;
+    padding-right: 15px;
+    text-align: center;
+}
+
+.left_side{
+    background-color: rgb(40, 39, 39);
+    color: white;
+    top: 0px;
+    left: 0px;
+    width: 295px;
+    bottom: 0px;
+    position: absolute;
+    padding-left: 15px;
+}
+
+
+.mainbody{
+    background-color: rgb(226, 220, 220);
+    color: black;
+    top: 0px;
+    left: 300px;
+    right: 300px;
+    bottom: 0px;
+    position: absolute;
+}
+
+.backup{
+    background-color: rgb(226, 220, 220);
+    color: black;
+    left: 400px;
+    right: 400px;
+    bottom: 5px;
+    position: absolute;
+}
+
+.big{
+    font-size: 50px;
+    font-style: normal;
+}
+
+a{color: rgb(233, 133, 133);
+    text-decoration: none;
+}
+
+a:hover{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+li{
+    font-size: 20px;
+    font-weight: normal;
+    font-style: italic ;
+}
+
+.bold_and_big{
+    font-size: 30px;
+    font-weight: bold;
+    font-style: normal;
+}
+
+.center{
+    text-align: center;
+}
